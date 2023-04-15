@@ -37,6 +37,7 @@ print(fruits)
 fruits.remove("apple")
 print()
                                    #15/04/2023
+                                   #OPEREATORS
 
 def addittion(num1, num2):
     sum= num1+num2
