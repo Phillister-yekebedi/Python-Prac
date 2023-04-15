@@ -36,12 +36,72 @@ print(fruits.sort())
 print(fruits)
 fruits.remove("apple")
 print()
+                                   #15/04/2023
 
+def addittion(num1, num2):
+    sum= num1+num2
+    print(sum)
 
+def substraction(num, num2):
+    diff= num-num2
+    print(diff)
 
+#1. What is the output of the following code?
+def calculate(a,b):
+    c = a * b
+    print(c)
 
+#2. What is the output of the following code?
+def division(d,e):
+    f = d/e
+    print(f)
+    
+ #2b.What is the output of the following code?
+def divi(g,h):
+    I = g // h
+    print(I)
 
+#3. What is the output of the following code?
+# def logical():
+def logic(j,k,):
+    l = (j!= k)
+    print(l)
 
+#4. What is the output of the following code
+def number(n):
+  n=[1,2,3]
+  not2 = 4 in n
+  print(not2)
 
+#5. What is the output of the following code?
+def identical(q, p):
+    value1 = q is p
+    print(value1)
+    
+#6. What is the result of the following expression?
+def modulus(num1, num):
+    value = num1 % num
+    print(value)
+
+#7. What is the output of the following code?
+def exponent(num3, num4):
+    result = num3**num4
+    print(result)
+
+#8. What is the output of the following code?
+def greater(numb,numb1):
+    great= numb<numb1 and numb!= numb1
+    print(great)
+
+#9. What is the output of the following code
+def notnumber(n):
+  n=[1,2,3]
+  not2 = 4 not in n
+  print(not2)
+ 
+#10. What is the output of the following code 
+def compare2(y,z):
+    comp = y == z
+    print(comp)
 
 
